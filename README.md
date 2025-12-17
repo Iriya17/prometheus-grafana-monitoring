@@ -3,7 +3,8 @@ Implemented a containerized monitoring solution using Prometheus, Grafana, and N
 ## 📸 Project Screenshots
 
 ### Grafana Dashboard – System Metrics
-![Grafana Dashboard]()
+![Grafana Dashboard](grafana-dashboard.png.png)
 
 ### Prometheus Targets Status
-![Prometheus Targets]()
+![Prometheus Targets](prometheus-targets.png.png)
+
